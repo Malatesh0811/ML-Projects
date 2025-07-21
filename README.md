@@ -37,5 +37,4 @@ This project proposes a novel solution for restoring degraded handwritten Kannad
 - **Format**: Paired (degraded, clean) image samples.
 - **Size**: Resized to 128×128, grayscale format.
 
-### 📦 Folder Structure
 
